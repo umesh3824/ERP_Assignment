@@ -1,0 +1,47 @@
+.phase-card .phase-head .user-img{
+width: 25px;
+height: 25px;
+border-radius: 100px;
+}
+.phase-card .phase-bottom-icon small{
+ width: 21px;
+ height: 21px;
+ float: right;
+ margin-right: 10px;
+ border-radius: 100px;
+}
+a:hover, a:focus {
+    color: none;
+    text-decoration: none;
+}
+.form-add-icon{
+    padding: 5px; 
+    margin: 0px;
+    font-size: 20px;
+}
+.form-add-input{
+    width:85%;
+    display:inline;
+}
+.cust-select-filter{
+    border:2px solid #E1BEE7;
+    width:100%;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.cust-input-filter{
+    border:2px solid #E1BEE7;
+    width:100%;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.form-control{
+    height: 30px;
+}
+.required-icon{
+    color:red;
+}
+
+
